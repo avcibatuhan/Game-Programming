@@ -15,3 +15,5 @@ OYUN PROGRAMLAMA BLM0364
 Bursa Technical University
 
 YOU CAN PLAY THE GAME ON : https://simmer.io/@hollycandyy26/runfromred
+
+The game full version : https://drive.google.com/file/d/1Ajr-1ymytn7jp9jmP4C3vRcYIiO-EMiy/view?usp=sharing
